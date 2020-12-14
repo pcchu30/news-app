@@ -8,7 +8,7 @@ https://pcchu30-news.herokuapp.com/
 username: testuser  
 password: huJ12&ko
 
-log in 之後可以閱讀新聞，也可以按左上角的 +New 新增新聞。  
+log in 之後可以閱讀新聞，也可以按左上角的 +New(https://placehold.it/15/1589F0/000000?text=+)新增新聞。  
 
 ### 後台管理連結    
 可以使用上面的帳號登錄，有部份後台權限。  
