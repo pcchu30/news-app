@@ -17,4 +17,7 @@ https://pcchu30-news.herokuapp.com/admin/
 
 ## 主要功能
 * Custom User Model
-* User Authentication
+* User Authentication  
+  the ability to sign up, log in, and log out users
+* Bootstrap for styling
+* Unit Test
