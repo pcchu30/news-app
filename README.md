@@ -1,5 +1,5 @@
 # Django Newspaper app
-A newspaper app built using `django` framework implements CRUD(Create-Read-Update-Delete) functionality. The frontend is made using `html` and `bootstrap`. We use `PostgreSQL` as the database for production on Heroku. You can add articles which can be viewed by login users . Just make an account and you are good to go.
+A newspaper website built using `django` framework implements CRUD(Create-Read-Update-Delete) functionality. The frontend is made using `html` and `bootstrap`. We use `PostgreSQL` as the database for production on Heroku. You can add articles which can be viewed by login users . Just make an account and you are good to go.
 ## Heroku Deployment
 
 ### 本新聞網站連結  
