@@ -25,4 +25,5 @@ https://pcchu30-news.herokuapp.com/admin/
 * **Newspaper app**  
   We have an articles page where journalists can post articles, set up permissions so only the author of an article can edit or delete it, and finally add
 the ability for other users to write comments on each article.
+* **Permissions and Authorization**
 * **Unit Tests**
