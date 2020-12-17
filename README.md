@@ -27,3 +27,6 @@ https://pcchu30-news.herokuapp.com/admin/
 the ability for other users to write comments on each article.
 * **Permissions and Authorization**
 * **Unit Tests**
+* **Deployment**
+  * Environment Variables
+
