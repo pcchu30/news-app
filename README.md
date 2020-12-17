@@ -16,8 +16,8 @@ log in 之後可以閱讀新聞，也可以按左上角的 +New 新增新聞
 https://pcchu30-news.herokuapp.com/admin/
 
 ## 主要功能
-* Custom User Model
-* User Authentication  
+* **Custom User Model**
+* **User Authentication**  
   The ability to sign up, log in, and log out users.
 * Bootstrap for styling
 * Password Reset and Change via Email  
