@@ -28,5 +28,8 @@ the ability for other users to write comments on each article.
 * **Permissions and Authorization**
 * **Unit Tests**
 * **Deployment**
-  * Environment Variables: saving variables we want to hide in a hidden file `.env`, such as **SECRET_KEY**.
+  * Environment Variables: saving variables we want to hide in a hidden file **.env**, such as **SECRET_KEY**, **DEBUG**.
+  * Set **.gitignore**
+  * Set **ALLOWED_HOSTS**
+  * Set production database(**PostgreSQL**)
 
