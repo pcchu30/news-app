@@ -19,10 +19,10 @@ https://pcchu30-news.herokuapp.com/admin/
 * **Custom User Model**
 * **User Authentication**  
   The ability to sign up, log in, and log out users.
-* Bootstrap for styling
-* Password Reset and Change via Email  
+* **Bootstrap for styling**
+* **Password Reset and Change via Email**  
   Users will be able to change their current password or, if they’ve forgotten it, to reset it via email. We use email service `SendGrid` to send emails to users automatically.
-* Newspaper app  
+* **Newspaper app**  
   We have an articles page where journalists can post articles, set up permissions so only the author of an article can edit or delete it, and finally add
 the ability for other users to write comments on each article.
-* Unit Test
+* **Unit Tests**
