@@ -32,4 +32,8 @@ the ability for other users to write comments on each article.
   * Set **.gitignore**
   * Set **ALLOWED_HOSTS**
   * Set production database(**PostgreSQL**)
+  * Install **whitenoise** for static file hosting
+  * Install **gunicorn** for production web server
+  * Git push
+  * **Heroku** Deployment via the command line
 
